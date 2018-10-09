@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bcfa710-bc27-4254-8038-91659d248de9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2033541059">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4229" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4229" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FourOperation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/FourOperation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#generateFormula#0;class#FourOperation#0" />
+                <element signature="method#operations#0;class#FourOperation#0" />
+                <element signature="docComment;method#decide#0;class#FourOperation#0" />
+                <element signature="method#decide#0;class#FourOperation#0" />
+                <element signature="method#generateNum#0;class#FourOperation#0" />
+                <element signature="method#deepCopy#0;class#FourOperation#0" />
+                <element signature="e#5041#5071#1" expanded="true" />
+                <element signature="method#testOperators#0;class#FourOperation#0" />
+                <element signature="method#storeOpInList#0;class#FourOperation#0" />
+                <element signature="method#generateOperator#0;class#FourOperation#0" />
+                <element signature="method#main#0;class#FourOperation#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>clone</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Fraction.java" />
+        <option value="$PROJECT_DIR$/src/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/FourOperation.java" />
+        <option value="$PROJECT_DIR$/src/main/Fraction.java" />
+        <option value="$PROJECT_DIR$/src/main/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/FourOperation.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="412" />
+    <option name="y" value="9" />
+    <option name="width" value="818" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FourOperations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FourOperations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FourOperations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FourOperations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FourOperations" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FourOperations" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539064768760" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FourOperation">
+    <configuration name="FourOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.FourOperation" />
+      <module name="FourOperations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Calculator.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourOperations" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Calculator.abbb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourOperations" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <option name="METHOD_NAME" value="abbb" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Calculator.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourOperations" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Calculator.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FourOperations" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Calculator.Test" />
+      <item itemvalue="JUnit.Calculator.test" />
+      <item itemvalue="JUnit.Calculator.abbb" />
+      <item itemvalue="JUnit.Calculator.test1" />
+      <item itemvalue="Application.FourOperation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FourOperation" />
+        <item itemvalue="JUnit.Calculator.Test" />
+        <item itemvalue="JUnit.Calculator.test1" />
+        <item itemvalue="JUnit.Calculator.abbb" />
+        <item itemvalue="JUnit.Calculator.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bcfa710-bc27-4254-8038-91659d248de9" name="Default" comment="" />
+      <created>1538808251151</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538808251151</updated>
+      <workItem from="1538808258053" duration="7030000" />
+      <workItem from="1538815397346" duration="15233000" />
+      <workItem from="1538839247324" duration="1602000" />
+      <workItem from="1538891486159" duration="296000" />
+      <workItem from="1538893334793" duration="17141000" />
+      <workItem from="1538925021712" duration="6218000" />
+      <workItem from="1538958036225" duration="606000" />
+      <workItem from="1539003127038" duration="27000" />
+      <workItem from="1539003275340" duration="1271000" />
+      <workItem from="1539052237442" duration="2014000" />
+      <workItem from="1539097421278" duration="1165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Calculator_test - 2018.10.07 at 21h 50m 45s.xml">
+      <configuration name="Calculator.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_test - 2018.10.07 at 21h 50m 58s.xml">
+      <configuration name="Calculator.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_test - 2018.10.07 at 21h 51m 07s.xml">
+      <configuration name="Calculator.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_abbb - 2018.10.07 at 22h 12m 33s.xml">
+      <configuration name="Calculator.abbb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_abbb - 2018.10.07 at 22h 13m 03s.xml">
+      <configuration name="Calculator.abbb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_abbb - 2018.10.07 at 22h 15m 11s.xml">
+      <configuration name="Calculator.abbb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_abbb - 2018.10.07 at 22h 15m 48s.xml">
+      <configuration name="Calculator.abbb" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_test1 - 2018.10.07 at 23h 36m 45s.xml">
+      <configuration name="Calculator.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_Test - 2018.10.07 at 23h 55m 24s.xml">
+      <configuration name="Calculator.Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Calculator_Test - 2018.10.09 at 23h 05m 12s.xml">
+      <configuration name="Calculator.Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="52603000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="412" y="9" width="818" height="788" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.49946696" weight="0.3783784" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50053304" side_tool="true" weight="0.3275488" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4947994" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.329718" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="0" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22942643" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3296355" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.46203905" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/FourOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3933">
+          <caret line="207" selection-start-line="207" selection-end-line="207" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#generateFormula#0;class#FourOperation#0" />
+            <element signature="method#operations#0;class#FourOperation#0" />
+            <element signature="docComment;method#decide#0;class#FourOperation#0" />
+            <element signature="method#decide#0;class#FourOperation#0" />
+            <element signature="method#generateNum#0;class#FourOperation#0" />
+            <element signature="method#deepCopy#0;class#FourOperation#0" />
+            <element signature="e#5041#5071#1" expanded="true" />
+            <element signature="method#testOperators#0;class#FourOperation#0" />
+            <element signature="method#storeOpInList#0;class#FourOperation#0" />
+            <element signature="method#generateOperator#0;class#FourOperation#0" />
+            <element signature="method#main#0;class#FourOperation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/AbstractList.java" />
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/AbstractCollection.java" />
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java" />
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/lang/Math.java" />
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/Arrays.java" />
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/lang/Object.java" />
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/atomic/AtomicLong.java" />
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/Random.java" />
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_181/src.zip!/java/util/List.java" />
+    <entry file="file://$PROJECT_DIR$/src/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/FourOperation.java" />
+    <entry file="file://$PROJECT_DIR$/src/Fraction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Fraction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/FourOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#generateFormula#0;class#FourOperation#0" />
+            <element signature="method#operations#0;class#FourOperation#0" />
+            <element signature="docComment;method#decide#0;class#FourOperation#0" />
+            <element signature="method#decide#0;class#FourOperation#0" />
+            <element signature="method#generateNum#0;class#FourOperation#0" />
+            <element signature="method#deepCopy#0;class#FourOperation#0" />
+            <element signature="e#5041#5071#1" expanded="true" />
+            <element signature="method#testOperators#0;class#FourOperation#0" />
+            <element signature="method#storeOpInList#0;class#FourOperation#0" />
+            <element signature="method#generateOperator#0;class#FourOperation#0" />
+            <element signature="method#main#0;class#FourOperation#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
